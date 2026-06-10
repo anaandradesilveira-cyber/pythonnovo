@@ -1,1 +1,1 @@
-# pythonnovo
+# jogo de adivinhação python
